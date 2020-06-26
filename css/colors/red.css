@@ -1,0 +1,114 @@
+/* ========================================================================================= */
+/* ======================================= COLOR : #e74c3c =================================== */
+/* ========================================================================================= */
+.title h3 {
+  color: #e74c3c;
+}
+.fixed .navbar-nav>li>a:hover {
+  color: #e74c3c;
+}
+.fixed .navbar-nav .active a {
+  color: #e74c3c;
+}
+.fixed .navbar-nav .active:hover a {
+  color: #e74c3c;
+}
+.s-header .middle-c a {
+  border: 1px solid #e74c3c;
+  background: #e74c3c;
+}
+.s-header .middle-c a:hover {
+  background: #e33724;
+  border-color: #e33724;
+}
+.features .feature-box:hover i,
+.features .feature-box:hover span {
+  background-color: #e74c3c;
+  color: #FFF;
+}
+.about-con h3 span {
+  color: #e74c3c;
+}
+.services .item h5:after {
+  background: #e74c3c;
+}
+.services .item:hover span {
+  color: #e74c3c;
+}
+.services .item:hover i {
+  color: #e74c3c;
+}
+.services .item .moving-border::before {
+  background: #e74c3c;
+}
+.services .item .moving-border::after {
+  background: #e74c3c;
+}
+.moving-border div::before {
+  background: #e74c3c;
+}
+.moving-border div::after {
+  background: #e74c3c;
+}
+.exper-con h5 {
+  color: #e74c3c;
+}
+.progress-bar {
+  background-color: #e74c3c;
+}
+.work .filter-work .is-checked {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+}
+.facts .counting-icon i,
+.facts .counting-icon span {
+  color: #e74c3c;
+}
+.price .item .mount h3 {
+  color: #e74c3c;
+}
+.price .best .item a {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+}
+.price .best .item a:hover {
+  background-color: #e33724;
+  color: #FFF;
+  border-color: #e33724;
+}
+.testimonial-box h3 {
+  color: #e74c3c;
+}
+.owl-theme .owl-dots .owl-dot span {
+  border:2px solid #e74c3c !important;
+}
+.owl-theme .owl-dots .active span {
+  background: #e74c3c !important;
+}
+.post-c .post-author span a {
+  color: #e74c3c;
+}
+.post-c .post-title a:hover {
+  color: #e74c3c;
+}
+.post-c .post-meta span i {
+  color: #e74c3c;
+}
+.contact .item i,
+.contact .item .icon {
+  color: #e74c3c;
+}
+.contact-item input:focus,
+.contact-item textarea:focus {
+  border-color: #e74c3c;
+}
+.contact-item .button {
+  background-color: #e74c3c;
+}
+.contact-item .button:hover {
+  border-color: #e74c3c;
+  color: #e74c3c;
+}
+footer .sc-icon a:hover span {
+  background-color: #e74c3c;
+}

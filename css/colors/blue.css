@@ -1,0 +1,105 @@
+/* ========================================================================================= */
+/* ======================================= COLOR : #3BAFDA =================================== */
+/* ========================================================================================= */
+.title h3 {
+  color: #3BAFDA;
+}
+.fixed .navbar-nav>li>a:hover {
+  color: #3BAFDA;
+}
+.fixed .navbar-nav .active a {
+  color: #3BAFDA;
+}
+.fixed .navbar-nav .active:hover a {
+  color: #3BAFDA;
+}
+.s-header .middle-c a {
+  border: 1px solid #3BAFDA;
+  background: #3BAFDA;
+}
+.features .feature-box:hover i,
+.features .feature-box:hover span {
+  background-color: #3BAFDA;
+  color: #FFF;
+}
+.about-con h3 span {
+  color: #3BAFDA;
+}
+.services .item h5:after {
+  background: #3BAFDA;
+}
+.services .item:hover span {
+  color: #3BAFDA;
+}
+.services .item:hover i {
+  color: #3BAFDA;
+}
+.services .item .moving-border::before {
+  background: #3BAFDA;
+}
+.services .item .moving-border::after {
+  background: #3BAFDA;
+}
+.moving-border div::before {
+  background: #3BAFDA;
+}
+.moving-border div::after {
+  background: #3BAFDA;
+}
+.exper-con h5 {
+  color: #3BAFDA;
+}
+.progress-bar {
+  background-color: #3BAFDA;
+}
+.work .filter-work .is-checked {
+  background-color: #3BAFDA;
+  border-color: #3BAFDA;
+}
+.facts .counting-icon i,
+.facts .counting-icon span {
+  color: #3BAFDA;
+}
+.price .item .mount h3 {
+  color: #3BAFDA;
+}
+.price .best .item a {
+  background-color: #3BAFDA;
+  border-color: #3BAFDA;
+}
+.testimonial-box h3 {
+  color: #3BAFDA;
+}
+.owl-theme .owl-dots .owl-dot span {
+  border:2px solid #3BAFDA !important;
+}
+.owl-theme .owl-dots .active span {
+  background: #3BAFDA !important;
+}
+.post-c .post-author span a {
+  color: #3BAFDA;
+}
+.post-c .post-title a:hover {
+  color: #3BAFDA;
+}
+.post-c .post-meta span i {
+  color: #3BAFDA;
+}
+.contact .item i,
+.contact .item .icon {
+  color: #3BAFDA;
+}
+.contact-item input:focus,
+.contact-item textarea:focus {
+  border-color: #3BAFDA;
+}
+.contact-item .button {
+  background-color: #3BAFDA;
+}
+.contact-item .button:hover {
+  border-color: #3BAFDA;
+  color: #3BAFDA;
+}
+footer .sc-icon a:hover span {
+  background-color: #3BAFDA;
+}

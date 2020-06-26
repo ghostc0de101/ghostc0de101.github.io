@@ -1,0 +1,114 @@
+/* ========================================================================================= */
+/* ======================================= COLOR : #e67e22 =================================== */
+/* ========================================================================================= */
+.title h3 {
+  color: #e67e22;
+}
+.fixed .navbar-nav>li>a:hover {
+  color: #e67e22;
+}
+.fixed .navbar-nav .active a {
+  color: #e67e22;
+}
+.fixed .navbar-nav .active:hover a {
+  color: #e67e22;
+}
+.s-header .middle-c a {
+  border: 1px solid #e67e22;
+  background: #e67e22;
+}
+.s-header .middle-c a:hover {
+  background: #e3791a;
+  border-color: #e3791a;
+}
+.features .feature-box:hover i,
+.features .feature-box:hover span {
+  background-color: #e67e22;
+  color: #FFF;
+}
+.about-con h3 span {
+  color: #e67e22;
+}
+.services .item h5:after {
+  background: #e67e22;
+}
+.services .item:hover span {
+  color: #e67e22;
+}
+.services .item:hover i {
+  color: #e67e22;
+}
+.services .item .moving-border::before {
+  background: #e67e22;
+}
+.services .item .moving-border::after {
+  background: #e67e22;
+}
+.moving-border div::before {
+  background: #e67e22;
+}
+.moving-border div::after {
+  background: #e67e22;
+}
+.exper-con h5 {
+  color: #e67e22;
+}
+.progress-bar {
+  background-color: #e67e22;
+}
+.work .filter-work .is-checked {
+  background-color: #e67e22;
+  border-color: #e67e22;
+}
+.facts .counting-icon i,
+.facts .counting-icon span {
+  color: #e67e22;
+}
+.price .item .mount h3 {
+  color: #e67e22;
+}
+.price .best .item a {
+  background-color: #e67e22;
+  border-color: #e67e22;
+}
+.price .best .item a:hover {
+  background-color: #e3791a;
+  color: #FFF;
+  border-color: #e3791a;
+}
+.testimonial-box h3 {
+  color: #e67e22;
+}
+.owl-theme .owl-dots .owl-dot span {
+  border:2px solid #e67e22 !important;
+}
+.owl-theme .owl-dots .active span {
+  background: #e67e22 !important;
+}
+.post-c .post-author span a {
+  color: #e67e22;
+}
+.post-c .post-title a:hover {
+  color: #e67e22;
+}
+.post-c .post-meta span i {
+  color: #e67e22;
+}
+.contact .item i,
+.contact .item .icon {
+  color: #e67e22;
+}
+.contact-item input:focus,
+.contact-item textarea:focus {
+  border-color: #e67e22;
+}
+.contact-item .button {
+  background-color: #e67e22;
+}
+.contact-item .button:hover {
+  border-color: #e67e22;
+  color: #e67e22;
+}
+footer .sc-icon a:hover span {
+  background-color: #e67e22;
+}
